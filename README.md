@@ -1,6 +1,7 @@
 👋 Hola, soy Javier
 
 Soy un desarrollador Fullstack con más de dos años de experiencia profesional, aunque mi mayor fortaleza y preferencia está en el desarrollo backend y el diseño de arquitecturas de sistemas robustas.
+
 🚀 Sobre mí
 
     🎯 Especialización: Me destaco en el diseño y desarrollo de soluciones backend, priorizando bases de datos escalables y una arquitectura bien estructurada.
