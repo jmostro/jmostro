@@ -1,6 +1,29 @@
-- 👋 Hola, soy Javier!
-- 👀 Me interesa especializarme en desarrollo backend, he desarrollado proyectos de forma autónoma en PHP (Full stack), tambien pequeños aplicativos en .NET y C# y he participado en el desarrollo de APIs con NodeJS y aplicaciones en React Native.
-- :nerd_face: Actualmente estoy trabajando y aprendiendo con Laravel, y tengo interés en realizar más desarrollos con NodeJS.
+👋 Hola, soy Javier
+
+Soy un desarrollador Fullstack con más de dos años de experiencia profesional, aunque mi mayor fortaleza y preferencia está en el desarrollo backend y el diseño de arquitecturas de sistemas robustas.
+🚀 Sobre mí
+
+    🎯 Especialización: Me destaco en el diseño y desarrollo de soluciones backend, priorizando bases de datos escalables y una arquitectura bien estructurada.
+    🛠 Tecnologías actuales: PHP, Laravel, .NET, React, Vite, Bootstrap, PostgreSQL y MySQL.
+    🌱 Aprendizaje continuo: Estoy trabajando en mejorar mi manejo de patrones de diseño, integraciones CI/CD y pruebas automatizadas.
+    🏆 Certificación: Técnico Superior en Análisis de Sistemas.
+
+🌍 Idiomas
+
+    Español (nativo)
+    Inglés (B2)
+
+🤝 Habilidades interpersonales
+
+    Detallista y orientado a soluciones a largo plazo.
+    Trabajo en equipo: Facilito la comunicación y me esfuerzo para que mi equipo entienda mi visión.
+    Líder de referencia: Soy considerado un punto de consulta tanto por superiores como por colegas, destacando siempre lo positivo y siendo constructivo en mis devoluciones.
+    Abierto a sugerencias: Me gusta evaluar distintos puntos de vista y explorar soluciones alternativas, intercambiando ideas con mi equipo para encontrar las mejores implementaciones posibles.
+
+💡 Metas profesionales
+
+    Especializarme aún más en backend y diseño de arquitecturas de software.
+    Desarrollar habilidades avanzadas en patrones de diseño y pruebas automatizadas.
 
 
 
