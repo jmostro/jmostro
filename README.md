@@ -1,13 +1,13 @@
 👋 Hola, soy Javier
 
-Soy un desarrollador Fullstack con más de dos años de experiencia profesional, aunque mi mayor fortaleza y preferencia está en el desarrollo backend y el diseño de arquitecturas de sistemas robustas.
+Soy un desarrollador Fullstack con más de dos años de experiencia profesional, aunque mi mayor fortaleza y preferencia está en el desarrollo backend y el diseño de arquitectura de sistemas.
 
 🚀 Sobre mí
 
-    🎯 Especialización: Me destaco en el diseño y desarrollo de soluciones backend, priorizando bases de datos escalables y una arquitectura bien estructurada.
+    🎯 Especialización: Me destaco en el diseño y desarrollo de soluciones Backend, priorizando bases de datos escalables y una arquitectura bien estructurada.
     🛠 Tecnologías actuales: PHP, Laravel, .NET, React, Vite, Bootstrap, PostgreSQL y MySQL.
     🌱 Aprendizaje continuo: Estoy trabajando en mejorar mi manejo de patrones de diseño, integraciones CI/CD y pruebas automatizadas.
-    🏆 Certificación: Técnico Superior en Análisis de Sistemas.
+    🏆 Certificación: Técnico Superior en Análisis de Sistemas (ORT Argentina).
 
 🌍 Idiomas
 
@@ -23,7 +23,7 @@ Soy un desarrollador Fullstack con más de dos años de experiencia profesional,
 
 💡 Metas profesionales
 
-    Especializarme aún más en backend y diseño de arquitecturas de software.
+    Especializarme aún más en Backend y diseño de arquitecturas de software.
     Desarrollar habilidades avanzadas en patrones de diseño y pruebas automatizadas.
 
 
